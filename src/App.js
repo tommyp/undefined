@@ -8,6 +8,9 @@ function App() {
       <h1>
         Undefined.
       </h1>
+      <h1>
+        <a href="mailto:hi@tommyp.org">contact</a>
+      </h1>
     </section>
   );
 }

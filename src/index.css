@@ -15,3 +15,11 @@ h1 {
   /* line-height: 0.8em; */
   margin: 0.5em 0;
 }
+
+a {
+  color: #000;
+}
+
+a:hover {
+  color: #42f48c;
+}
